@@ -19,6 +19,9 @@ Click [Here](http://millionsongdataset.com/lastfm/) for information about the da
 Attempted to predict genre using a f1 metric in order to figure out whether song
 genre types could be predicted without using lyrics. 
 
+f1 metric of about 0.6, so not ideal for genre prediction but still good enough for fast 
+predictions without bringing in huge amounts of lyrics data. 
+
 ## Presentation
 Part of a bigger project. 
 
